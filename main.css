@@ -1,0 +1,25 @@
+.Q1 {
+    font-size: 25px;
+    background: #6c6c6c;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.Q2 {
+    font-size: 25px;
+    background: #6c6c6c;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    display: none;
+}
+
+.Q3 {
+    font-size: 25px;
+    background: #6c6c6c;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    display: none;
+}
